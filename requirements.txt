@@ -1,0 +1,10 @@
+bidict
+matplotlib
+mpmath
+numpy
+pandas
+pillow
+pytorch-fid
+scipy
+tqdm
+wandb
